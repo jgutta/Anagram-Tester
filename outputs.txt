@@ -1,0 +1,13 @@
+Anagrams with more than 5 words in dict1:
+
+luster lustre result rustle sulter ulster
+elva lave leva vale veal vela
+least setal slate stale steal stela teals
+leapt lepta palet petal plate pleat
+aril lair liar lira rail rial
+caret cater crate react recta trace
+reins resin rinse risen serin siren
+ardeb barde beard bread debar debra
+
+Number of Anagram Classes/ Lines in anagrams1: 67606
+Number of Anagram Classes/ Lines in anagrams2: 320750

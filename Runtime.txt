@@ -1,0 +1,4 @@
+Doing a time analysis gives:
+
+Dict1: real = 0m.0371s, user = 0m0.660s, sys 0.096s
+Dict2: real = 0m51.374s, user = 3m58.163s, sys 4.300s
